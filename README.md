@@ -325,6 +325,7 @@
 
 ## Others 
 
+- [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) - :octocat: Machine Learning for Cyber Security
 - [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [browser-sec-whitepaper](https://github.com/cure53/browser-sec-whitepaper) - 
@@ -593,6 +594,7 @@
 
 ## Shell 
 
+- [lamp](https://github.com/tutumcloud/lamp) - [Deprecated] LAMP base docker image
 - [china_ip_list](https://github.com/LisonFan/china_ip_list) - China IP
 - [across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
 - [chrome-headless](https://github.com/knq/chrome-headless) - Docker configuration files for knqz/chrome-headless
