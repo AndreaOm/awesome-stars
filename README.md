@@ -1,4 +1,4 @@
-# {repository} [![Stars](https://img.shields.io/badge/author-{username}-green.svg)](https://github.com/{username})
+# awesome-stars [![Stars](https://img.shields.io/badge/author-AndreaOm-green.svg)](https://github.com/AndreaOm)
 
 
 
