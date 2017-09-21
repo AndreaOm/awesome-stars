@@ -599,6 +599,7 @@
 
 ## Shell 
 
+- [docker-openldap](https://github.com/osixia/docker-openldap) - A docker image to run OpenLDAP 🐳
 - [lamp](https://github.com/tutumcloud/lamp) - [Deprecated] LAMP base docker image
 - [china_ip_list](https://github.com/LisonFan/china_ip_list) - China IP
 - [across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
@@ -636,7 +637,7 @@
 - [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular, FlexBox and CSS, and get native UI and performance on iOS and Android.
 - [chromeless](https://github.com/graphcool/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [chromeless-playground](https://github.com/graphcool/chromeless-playground) - 
-- [typeorm](https://github.com/typeorm/typeorm) - Data-Mapper ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in Node.js and Browser.
+- [typeorm](https://github.com/typeorm/typeorm) - Amazing ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [deeplearnjs](https://github.com/PAIR-code/deeplearnjs) - A hardware-accelerated deep learning library for the web.
 - [alipay-bills](https://github.com/lmk123/alipay-bills) - 一个用于自动获取支付宝账单信息的 Node.js 模块。
