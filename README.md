@@ -49,6 +49,7 @@
 - [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [windows_pentest_tools](https://github.com/xiaoxiaoleo/windows_pentest_tools) - My pentest tools used two years ago. Part1
 - [fuzzer-test-suite](https://github.com/google/fuzzer-test-suite) - Set of tests for fuzzing engines
+- [pyrebox](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU
 - [php7-extension-explore](https://github.com/owenliang/php7-extension-explore) - PHP7扩展开发 系列教程
 - [quals-2016](https://github.com/legitbs/quals-2016) - 2016 DEF CON Qualifier Challenges
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of  public penetration test reports released by several consulting firms and academic security groups
@@ -116,6 +117,8 @@
 
 ## Go 
 
+- [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
+- [chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language"
 - [goflyway](https://github.com/coyove/goflyway) - HTTP tunnel in Go
@@ -174,6 +177,8 @@
 
 ## JavaScript 
 
+- [chrome-csp-disable](https://github.com/PhilGrayson/chrome-csp-disable) - Disable Content-Security-Policy in Chromium browers for web application testing
+- [cqc](https://github.com/xcatliu/cqc) - Code Quality Checker
 - [hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building frontend applications.
 - [spacetime](https://github.com/smallwins/spacetime) - A lightweight way to handle timezones in js
 - [atom-ide-ui](https://github.com/facebook-atom/atom-ide-ui) - A collection of user interfaces for Atom IDE.
@@ -187,7 +192,7 @@
 - [pdf-bot](https://github.com/esbenp/pdf-bot) - 🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs
 - [moon](https://github.com/kbrsh/moon) - :crescent_moon: :zap: A minimal, blazing fast UI library.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Have your own Slack like online chat, built with Meteor.
-- [weweChat](https://github.com/trazyn/weweChat) - Unofficial WeChat client built with React, MobX and Electron.
+- [weweChat](https://github.com/trazyn/weweChat) - 💬 Unofficial WeChat client built with React, MobX and Electron.
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [eslint-config-alloy](https://github.com/AlloyTeam/eslint-config-alloy) - AlloyTeam ESLint 规则
 - [ayo](https://github.com/ayojs/ayo) - A fork of Node.js. Humans before technology.
@@ -328,7 +333,7 @@
 - [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) - :octocat: Machine Learning for Cyber Security
 - [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
-- [browser-sec-whitepaper](https://github.com/cure53/browser-sec-whitepaper) - 
+- [browser-sec-whitepaper](https://github.com/cure53/browser-sec-whitepaper) - Cure53 Browser Security White Paper
 - [Awesome-Security-Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists) - 
 - [thejsway](https://github.com/bpesquet/thejsway) - The JavaScript Way book
 - [betterdefaultpasslist](https://github.com/govolution/betterdefaultpasslist) - 
@@ -429,6 +434,7 @@
 
 ## Python 
 
+- [MyPython](https://github.com/fupinglee/MyPython) - 一些常用的Python脚本
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [domaintools](https://github.com/devhub/domaintools) - Domain parsing with Python
 - [githubscan](https://github.com/lianfeng30/githubscan) - githubscan
@@ -488,7 +494,6 @@
 - [rq](https://github.com/nvie/rq) - Simple job queues for Python
 - [CTF](https://github.com/abdesslem/CTF) - Flask platform for Capture The Flag challenges
 - [MSpider](https://github.com/manning23/MSpider) - Spider
-- [pyrebox](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU
 - [FileScan](https://github.com/Mosuan/FileScan) - FileScan: 敏感文件扫描 / 二次判断降低误报率 / 扫描内容规则化 / 多目录扫描
 - [ZeroExploit](https://github.com/5alt/ZeroExploit) - ultimate web vul hunter
 - [ms15-034](https://github.com/osakaaa/ms15-034) - http.sys range header exploit
