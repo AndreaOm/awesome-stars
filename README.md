@@ -452,7 +452,7 @@
 - [cmsPoc](https://github.com/CHYbeta/cmsPoc) - CMS渗透测试框架-A CMS Exploit Framework
 - [Syncy](https://github.com/DarkiT/Syncy) - Syncy Docker复活版，基于原Syncy 2.5.3魔改而来
 - [cobra](https://github.com/wufeifei/cobra) - Source Code Security Audit (源代码安全审计)
-- [theHarvester](https://github.com/laramies/theHarvester) - E-mail, subdomain and people names harvester
+- [theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [dzscan](https://github.com/code-scan/dzscan) - Dzscan
 - [httpbin](https://github.com/kennethreitz/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [weibospider](https://github.com/ResolveWang/weibospider) - :zap: 新浪微博爬虫(分布式)，部署简单，接口丰富，文档详细，视频支持，可灵活定制满足自己的需求。抓取内容（PC端）包括微博用户资料、特定关键词微博、用户主页所有微博、评论信息和转发信息。欢迎watch跟进，star支持
