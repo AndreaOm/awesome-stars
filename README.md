@@ -178,7 +178,7 @@
 ## JavaScript 
 
 - [chrome-csp-disable](https://github.com/PhilGrayson/chrome-csp-disable) - Disable Content-Security-Policy in Chromium browers for web application testing
-- [cqc](https://github.com/xcatliu/cqc) - Code Quality Checker
+- [cqc](https://github.com/xcatliu/cqc) - Code Quality Checker - Check your code quality by running one command.
 - [hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building frontend applications.
 - [spacetime](https://github.com/smallwins/spacetime) - A lightweight way to handle timezones in js
 - [atom-ide-ui](https://github.com/facebook-atom/atom-ide-ui) - A collection of user interfaces for Atom IDE.
