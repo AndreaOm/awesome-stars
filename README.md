@@ -436,6 +436,7 @@
 
 ## Python 
 
+- [pentest](https://github.com/jivoi/pentest) - :no_entry: offsec batteries included
 - [MyPython](https://github.com/fupinglee/MyPython) - 一些常用的Python脚本
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [domaintools](https://github.com/devhub/domaintools) - Domain parsing with Python
