@@ -455,7 +455,7 @@
 - [theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [dzscan](https://github.com/code-scan/dzscan) - Dzscan
 - [httpbin](https://github.com/kennethreitz/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-- [weibospider](https://github.com/ResolveWang/weibospider) - :zap: 新浪微博爬虫(分布式)，部署简单，接口丰富，文档详细，视频支持，可灵活定制满足自己的需求。抓取内容（PC端）包括微博用户资料、特定关键词微博、用户主页所有微博、评论信息和转发信息。欢迎watch跟进，star支持
+- [weibospider](https://github.com/ResolveWang/weibospider) - :zap: A distributed crawler for weibo, building with celery and requests.
 - [SiteScan](https://github.com/jasonsheh/SiteScan) - A tool help get the basic information of one site
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [2FAssassin](https://github.com/maxwellkoh/2FAssassin) - Bypass Two-Factor-Authentication
