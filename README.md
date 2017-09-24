@@ -20,6 +20,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
   - [Mask](#mask)
+  - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
@@ -117,6 +118,7 @@
 
 ## Go 
 
+- [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
@@ -177,6 +179,7 @@
 
 ## JavaScript 
 
+- [emoji](https://github.com/16Free/emoji) - :rocket: 现在支持获取 Emoji Code 或者 Emoji Char 了( :hammer:  Now support access to Emoji Code or Emoji Char)
 - [chrome-csp-disable](https://github.com/PhilGrayson/chrome-csp-disable) - Disable Content-Security-Policy in Chromium browers for web application testing
 - [cqc](https://github.com/xcatliu/cqc) - Code Quality Checker - Check your code quality by running one command.
 - [hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building frontend applications.
@@ -328,6 +331,10 @@
 
 - [Fuzzing-ImageMagick](https://github.com/lcatro/Fuzzing-ImageMagick) - OpenSource My ImageMagick Fuzzer ..
 
+## Objective-C 
+
+- [cordova-plugin-leanpush](https://github.com/BenBBear/cordova-plugin-leanpush) - Cordova plugin for LeanCloud push notification and analytics
+
 ## Others 
 
 - [open_source_team](https://github.com/niezhiyang/open_source_team) - 国内顶尖团队的开源地址
@@ -436,6 +443,9 @@
 
 ## Python 
 
+- [simhash](https://github.com/leonsim/simhash) - A Python Implementation of Simhash Algorithm
+- [sshpry](https://github.com/nopernik/sshpry) - Seamlessly spy on SSH session like it is your tty
+- [weblogic-exp-2017](https://github.com/guhui/weblogic-exp-2017) - 
 - [pentest](https://github.com/jivoi/pentest) - :no_entry: offsec batteries included
 - [MyPython](https://github.com/fupinglee/MyPython) - 一些常用的Python脚本
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
