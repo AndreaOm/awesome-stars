@@ -179,6 +179,7 @@
 
 ## JavaScript 
 
+- [gitzip](https://github.com/KinoLien/gitzip) - 
 - [emoji](https://github.com/16Free/emoji) - :rocket: 支持获取 Emoji Code 和 Emoji Char ( :hammer:  Support for Emoji Code and Emoji Char)
 - [chrome-csp-disable](https://github.com/PhilGrayson/chrome-csp-disable) - Disable Content-Security-Policy in Chromium browers for web application testing
 - [cqc](https://github.com/xcatliu/cqc) - Code Quality Checker - Check your code quality by running one command.
