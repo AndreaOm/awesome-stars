@@ -396,6 +396,7 @@
 
 ## PHP 
 
+- [PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 - [webcgi-exploits](https://github.com/wofeiwo/webcgi-exploits) - Multi-language web CGI interfaces exploits.
 - [Code-Audit-Challenges](https://github.com/CHYbeta/Code-Audit-Challenges) - Code-Audit-Challenges
 - [pentest-tools](https://github.com/gwen001/pentest-tools) - Custom pentesting tools
