@@ -445,6 +445,7 @@
 
 ## Python 
 
+- [shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 - [flask-thridy](https://github.com/Feeeenng/flask-thridy) - A flask extension  for login QQ,sina.wechat.
 - [simhash](https://github.com/leonsim/simhash) - A Python Implementation of Simhash Algorithm
 - [sshpry](https://github.com/nopernik/sshpry) - Seamlessly spy on SSH session like it is your tty
