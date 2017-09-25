@@ -445,6 +445,7 @@
 
 ## Python 
 
+- [flask-thridy](https://github.com/Feeeenng/flask-thridy) - A flask extension  for login QQ,sina.wechat.
 - [simhash](https://github.com/leonsim/simhash) - A Python Implementation of Simhash Algorithm
 - [sshpry](https://github.com/nopernik/sshpry) - Seamlessly spy on SSH session like it is your tty
 - [weblogic-exp-2017](https://github.com/guhui/weblogic-exp-2017) - 
