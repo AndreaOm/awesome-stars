@@ -397,6 +397,7 @@
 
 ## PHP 
 
+- [wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk) - 微信公众平台php开发包, weixin developer SDK.
 - [PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 - [webcgi-exploits](https://github.com/wofeiwo/webcgi-exploits) - Multi-language web CGI interfaces exploits.
 - [Code-Audit-Challenges](https://github.com/CHYbeta/Code-Audit-Challenges) - Code-Audit-Challenges
@@ -445,6 +446,7 @@
 
 ## Python 
 
+- [wechatpy](https://github.com/jxtech/wechatpy) - WeChat SDK for Python
 - [shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 - [flask-thridy](https://github.com/Feeeenng/flask-thridy) - A flask extension  for login QQ,sina.wechat.
 - [simhash](https://github.com/leonsim/simhash) - A Python Implementation of Simhash Algorithm
