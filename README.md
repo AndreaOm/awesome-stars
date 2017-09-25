@@ -446,6 +446,7 @@
 
 ## Python 
 
+- [ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 - [wechatpy](https://github.com/jxtech/wechatpy) - WeChat SDK for Python
 - [shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 - [flask-thridy](https://github.com/Feeeenng/flask-thridy) - A flask extension  for login QQ,sina.wechat.
