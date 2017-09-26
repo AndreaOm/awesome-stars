@@ -179,6 +179,7 @@
 
 ## JavaScript 
 
+- [node-uuid](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript
 - [gitzip](https://github.com/KinoLien/gitzip) - 
 - [emoji](https://github.com/16Free/emoji) - :rocket: 支持获取 Emoji Name 和 Emoji Char ( :hammer:  get emoji name and emoji char)
 - [chrome-csp-disable](https://github.com/PhilGrayson/chrome-csp-disable) - Disable Content-Security-Policy in Chromium browers for web application testing
@@ -347,11 +348,11 @@
 - [browser-sec-whitepaper](https://github.com/cure53/browser-sec-whitepaper) - Cure53 Browser Security White Paper
 - [Awesome-Security-Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists) - 
 - [thejsway](https://github.com/bpesquet/thejsway) - The JavaScript Way book
+- [Code-Audit-Challenges](https://github.com/CHYbeta/Code-Audit-Challenges) - Code-Audit-Challenges
 - [betterdefaultpasslist](https://github.com/govolution/betterdefaultpasslist) - 
 - [domxsswiki](https://github.com/wisec/domxsswiki) - Automatically exported from code.google.com/p/domxsswiki
 - [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 - [koa-guide](https://github.com/guo-yu/koa-guide) - koa guide in Chinese
-- [WEB-INF-dict](https://github.com/BlackFan/WEB-INF-dict) - List of configuration files from WEB-INF and META-INF for use in Unvalidated Forwards and JSP Include vulnerabilities.
 - [cvpr17](https://github.com/mli/cvpr17) - CVPR 2017 Tutorial
 - [the-front-end-knowledge-you-may-dont-know](https://github.com/justjavac/the-front-end-knowledge-you-may-dont-know) - :innocent: 你可能不知道的前端知识点
 - [LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
@@ -401,7 +402,7 @@
 - [wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk) - 微信公众平台php开发包, weixin developer SDK.
 - [PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 - [webcgi-exploits](https://github.com/wofeiwo/webcgi-exploits) - Multi-language web CGI interfaces exploits.
-- [Code-Audit-Challenges](https://github.com/CHYbeta/Code-Audit-Challenges) - Code-Audit-Challenges
+- [WEB-INF-dict](https://github.com/BlackFan/WEB-INF-dict) - List of configuration files from WEB-INF and META-INF for use in Unvalidated Forwards and JSP Include vulnerabilities.
 - [pentest-tools](https://github.com/gwen001/pentest-tools) - Custom pentesting tools
 - [exp](https://github.com/rootphantomer/exp) - 收集各种各样的exp
 - [Ourls](https://github.com/takashiki/Ourls) - url shorten service/短网址服务
