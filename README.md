@@ -181,7 +181,7 @@
 
 - [node-uuid](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript
 - [gitzip](https://github.com/KinoLien/gitzip) - 
-- [emoji](https://github.com/16Free/emoji) - :rocket: 支持获取 Emoji Name 和 Emoji Char ( :hammer:  get emoji name and emoji char)
+- [emoji](https://github.com/gee1k/emoji) - :rocket: 支持获取 Emoji Name 和 Emoji Char ( :hammer:  get emoji name and emoji char)
 - [chrome-csp-disable](https://github.com/PhilGrayson/chrome-csp-disable) - Disable Content-Security-Policy in Chromium browers for web application testing
 - [cqc](https://github.com/xcatliu/cqc) - Code Quality Checker - Check your code quality by running one command.
 - [hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building frontend applications.
