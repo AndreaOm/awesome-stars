@@ -180,7 +180,7 @@
 ## JavaScript 
 
 - [gitzip](https://github.com/KinoLien/gitzip) - 
-- [emoji](https://github.com/16Free/emoji) - :rocket: 支持获取 Emoji Name 和 Emoji Char ( :hammer:  Support for Emoji Name and Emoji Char)
+- [emoji](https://github.com/16Free/emoji) - :rocket: 支持获取 Emoji Name 和 Emoji Char ( :hammer:  get emoji name and emoji char)
 - [chrome-csp-disable](https://github.com/PhilGrayson/chrome-csp-disable) - Disable Content-Security-Policy in Chromium browers for web application testing
 - [cqc](https://github.com/xcatliu/cqc) - Code Quality Checker - Check your code quality by running one command.
 - [hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building frontend applications.
@@ -338,6 +338,7 @@
 
 ## Others 
 
+- [humpback](https://github.com/humpback/humpback) - Quickly build lightweight docker cloud for enterprise user.
 - [open_source_team](https://github.com/niezhiyang/open_source_team) - 国内顶尖团队的开源地址
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) - :octocat: Machine Learning for Cyber Security
@@ -446,6 +447,7 @@
 
 ## Python 
 
+- [domato](https://github.com/google/domato) - DOM fuzzer
 - [ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 - [wechatpy](https://github.com/jxtech/wechatpy) - WeChat SDK for Python
 - [shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
