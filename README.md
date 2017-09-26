@@ -317,7 +317,7 @@
 ## Jupyter Notebook 
 
 - [handson-ml](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
-- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for beginners
+- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - Concise TensorFlow Examples for Beginners with Latest APIs
 - [facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 
 ## Lua 
