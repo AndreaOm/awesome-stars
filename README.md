@@ -180,6 +180,7 @@
 
 ## JavaScript 
 
+- [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 这应该是最好的网易云音乐播放器了，没有之一，如果有请打醒  :metal:
 - [kpass](https://github.com/seccom/kpass) - KPass is a web application to manage password safe.
 - [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 - [node-uuid](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript
@@ -451,6 +452,7 @@
 
 ## Python 
 
+- [HanTTS](https://github.com/junzew/HanTTS) - Chinese Text-to-Speech service
 - [SigThief](https://github.com/secretsquirrel/SigThief) - Stealing Signatures and Making One Invalid Signature at a Time
 - [domato](https://github.com/google/domato) - DOM fuzzer
 - [ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
