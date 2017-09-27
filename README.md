@@ -118,6 +118,7 @@
 
 ## Go 
 
+- [xsec-ip-database](https://github.com/netxfly/xsec-ip-database) - xsec-ip-database为一个恶意IP和域名库（Malicious ip database）
 - [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
@@ -179,6 +180,8 @@
 
 ## JavaScript 
 
+- [kpass](https://github.com/seccom/kpass) - KPass is a web application to manage password safe.
+- [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 - [node-uuid](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript
 - [gitzip](https://github.com/KinoLien/gitzip) - 
 - [emoji](https://github.com/gee1k/emoji) - :rocket: 一个查找获取 Emoji 表情的项目 ( :hammer:   search for Emoji expression )
@@ -448,6 +451,7 @@
 
 ## Python 
 
+- [SigThief](https://github.com/secretsquirrel/SigThief) - Stealing Signatures and Making One Invalid Signature at a Time
 - [domato](https://github.com/google/domato) - DOM fuzzer
 - [ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 - [wechatpy](https://github.com/jxtech/wechatpy) - WeChat SDK for Python
