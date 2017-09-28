@@ -119,6 +119,7 @@
 
 ## Go 
 
+- [lxd](https://github.com/lxc/lxd) - Daemon based on liblxc offering a REST API to manage containers
 - [xsec-ip-database](https://github.com/netxfly/xsec-ip-database) - xsec-ip-database为一个恶意IP和域名库（Malicious ip database）
 - [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
@@ -181,6 +182,7 @@
 
 ## JavaScript 
 
+- [lxd-webui](https://github.com/aarnaud/lxd-webui) - Web interface (GUI), web frontend to manage the LXD Containers
 - [chrome-sec-disable](https://github.com/5alt/chrome-sec-disable) - Disable some security features in Chromium browers for web application testing.
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 这应该是最好的网易云音乐播放器了，没有之一，如果有请打醒  :metal:
 - [kpass](https://github.com/seccom/kpass) - KPass is a web application to manage password safe.
@@ -454,6 +456,7 @@
 
 ## Python 
 
+- [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [LXC-Web-Panel](https://github.com/lxc-webpanel/LXC-Web-Panel) - LXC Web Panel repository
 - [osprey](https://github.com/TophantTechnology/osprey) - 
 - [hlextend](https://github.com/stephenbradshaw/hlextend) - Pure Python hash length extension module
