@@ -452,6 +452,7 @@
 
 ## Python 
 
+- [hlextend](https://github.com/stephenbradshaw/hlextend) - Pure Python hash length extension module
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [HanTTS](https://github.com/junzew/HanTTS) - Chinese Text-to-Speech service
 - [SigThief](https://github.com/secretsquirrel/SigThief) - Stealing Signatures and Making One Invalid Signature at a Time
