@@ -180,6 +180,7 @@
 
 ## JavaScript 
 
+- [chrome-sec-disable](https://github.com/5alt/chrome-sec-disable) - Disable some security features in Chromium browers for web application testing.
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 这应该是最好的网易云音乐播放器了，没有之一，如果有请打醒  :metal:
 - [kpass](https://github.com/seccom/kpass) - KPass is a web application to manage password safe.
 - [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
@@ -452,6 +453,7 @@
 
 ## Python 
 
+- [osprey](https://github.com/TophantTechnology/osprey) - 
 - [hlextend](https://github.com/stephenbradshaw/hlextend) - Pure Python hash length extension module
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [HanTTS](https://github.com/junzew/HanTTS) - Chinese Text-to-Speech service
