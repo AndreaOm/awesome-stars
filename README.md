@@ -106,6 +106,7 @@
 
 ## CoffeeScript 
 
+- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 - [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 - [shadowsocks-heroku](https://github.com/521xueweihan/shadowsocks-heroku) - 本项目已删除
 - [codecombat](https://github.com/codecombat/codecombat) - Game for learning how to code.
@@ -453,6 +454,7 @@
 
 ## Python 
 
+- [LXC-Web-Panel](https://github.com/lxc-webpanel/LXC-Web-Panel) - LXC Web Panel repository
 - [osprey](https://github.com/TophantTechnology/osprey) - 
 - [hlextend](https://github.com/stephenbradshaw/hlextend) - Pure Python hash length extension module
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
