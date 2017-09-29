@@ -409,7 +409,7 @@
 
 ## PHP 
 
-- [Biny](https://github.com/Tencent/Biny) - Biny is a tiny, high-performace PHP framework for web applications
+- [Biny](https://github.com/Tencent/Biny) - Biny is a tiny, high-performance PHP framework for web applications
 - [wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk) - 微信公众平台php开发包, weixin developer SDK.
 - [PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 - [webcgi-exploits](https://github.com/wofeiwo/webcgi-exploits) - Multi-language web CGI interfaces exploits.
