@@ -182,6 +182,7 @@
 
 ## JavaScript 
 
+- [weui.js](https://github.com/Tencent/weui.js) - A lightweight javascript library for WeUI.
 - [lxd-webui](https://github.com/aarnaud/lxd-webui) - Web interface (GUI), web frontend to manage the LXD Containers
 - [chrome-sec-disable](https://github.com/5alt/chrome-sec-disable) - Disable some security features in Chromium browers for web application testing.
 - [ieaseMusic](https://github.com/trazyn/ieaseMusic) - 这应该是最好的网易云音乐播放器了，没有之一，如果有请打醒  :metal:
@@ -408,6 +409,7 @@
 
 ## PHP 
 
+- [Biny](https://github.com/Tencent/Biny) - Biny is a tiny, high-performace PHP framework for web applications
 - [wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk) - 微信公众平台php开发包, weixin developer SDK.
 - [PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 - [webcgi-exploits](https://github.com/wofeiwo/webcgi-exploits) - Multi-language web CGI interfaces exploits.
