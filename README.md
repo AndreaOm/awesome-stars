@@ -446,6 +446,7 @@
 
 ## PowerShell 
 
+- [Empire](https://github.com/EmpireProject/Empire) - Empire is a PowerShell and Python post-exploitation agent.
 - [Exploits](https://github.com/WindowsExploits/Exploits) - Windows Exploits
 - [PowerShell](https://github.com/clymb3r/PowerShell) - Useful PowerShell scripts
 - [WINspect](https://github.com/A-mIn3/WINspect) - Powershell-based Windows Security Auditing Toolbox
