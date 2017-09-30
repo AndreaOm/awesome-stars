@@ -409,6 +409,7 @@
 
 ## PHP 
 
+- [QueryList](https://github.com/jae-jae/QueryList) - QueryList是基于phpQuery的无比强大的PHP采集工具
 - [Biny](https://github.com/Tencent/Biny) - Biny is a tiny, high-performance PHP framework for web applications
 - [wechat-php-sdk](https://github.com/dodgepudding/wechat-php-sdk) - 微信公众平台php开发包, weixin developer SDK.
 - [PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
@@ -459,6 +460,7 @@
 
 ## Python 
 
+- [DSSS](https://github.com/stamparm/DSSS) - Damn Small SQLi Scanner
 - [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [LXC-Web-Panel](https://github.com/lxc-webpanel/LXC-Web-Panel) - LXC Web Panel repository
 - [osprey](https://github.com/TophantTechnology/osprey) - 
