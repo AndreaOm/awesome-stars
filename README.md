@@ -487,6 +487,7 @@
 
 ## Python 
 
+- [Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary) - 爆破字典
 - [open-redirect-scanner](https://github.com/ak1t4/open-redirect-scanner) - open redirect subdomains scanner
 - [DNSLog](https://github.com/BugScanTeam/DNSLog) - DNSLog 是一款监控 DNS 解析记录和 HTTP 访问记录的工具。
 - [krackattacks-test-ap-ft](https://github.com/vanhoefm/krackattacks-test-ap-ft) - 
