@@ -191,6 +191,7 @@
 
 ## JavaScript 
 
+- [course-javascript-async-await](https://github.com/wangshijun/course-javascript-async-await) - :fire: Source code for course "asynchronous javascript with async/await"
 - [carbon](https://github.com/dawnlabs/carbon) - 🎨 Create and share beautiful images of your source code
 - [google-proxy](https://github.com/Jon-Millent/google-proxy) - 代理谷歌
 - [stylelint](https://github.com/stylelint/stylelint) - A mighty, modern CSS linter
