@@ -728,7 +728,7 @@
 - [chromeless-playground](https://github.com/graphcool/chromeless-playground) - 
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [deeplearnjs](https://github.com/PAIR-code/deeplearnjs) - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web.
-- [alipay-bills](https://github.com/lmk123/alipay-bills) - 一个用于自动获取支付宝账单信息的 Node.js 模块。
+- [alipay-bills](https://github.com/lmk123/alipay-bills) - 【已失效并不再维护】一个用于自动获取支付宝账单信息的 Node.js 模块。
 - [leizm-connect](https://github.com/leizongmin/leizm-connect) - 现代的 Web 中间件基础框架，完美支持 TypeScript，构建可维护的大型 Web 项目
 - [growth-v2](https://github.com/phodal/growth-v2) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
 
