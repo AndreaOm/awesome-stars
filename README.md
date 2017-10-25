@@ -47,6 +47,7 @@
 
 ## C 
 
+- [CVE](https://github.com/nongiach/CVE) - 
 - [tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
 - [rsa](https://github.com/ilansmith/rsa) - RSA encrypter, decrypter and key generator
 - [Scan-T](https://github.com/nanshihui/Scan-T) - a new crawler based on python with more function including Network fingerprint search
@@ -124,6 +125,7 @@
 
 ## Go 
 
+- [NATBypass](https://github.com/cw1997/NATBypass) - 一款lcx在golang下的实现
 - [lxd](https://github.com/lxc/lxd) - Daemon based on liblxc offering a REST API to manage containers
 - [xsec-ip-database](https://github.com/netxfly/xsec-ip-database) - xsec-ip-database为一个恶意IP和域名库（Malicious ip database）
 - [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
@@ -170,6 +172,7 @@
 
 ## Java 
 
+- [burp-vulners-scanner](https://github.com/vulnersCom/burp-vulners-scanner) - Vulnerability scanner based on vulners.com search API
 - [exploitpack](https://github.com/juansacco/exploitpack) - Exploit Pack - Penetration testing framework GPLv3
 - [DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [java_vul_target](https://github.com/JavaPentesters/java_vul_target) - 
@@ -191,6 +194,7 @@
 
 ## JavaScript 
 
+- [utf-8-validate](https://github.com/websockets/utf-8-validate) - Check if a buffer contains valid UTF-8
 - [course-javascript-async-await](https://github.com/wangshijun/course-javascript-async-await) - :fire: Source code for course "asynchronous javascript with async/await"
 - [carbon](https://github.com/dawnlabs/carbon) - 🎨 Create and share beautiful images of your source code
 - [google-proxy](https://github.com/Jon-Millent/google-proxy) - 代理谷歌
@@ -488,6 +492,7 @@
 
 ## Python 
 
+- [ssct](https://github.com/wanjunzh/ssct) - A wrapper tool for shadowsocks to consistently bypass firewalls.
 - [Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary) - 爆破字典
 - [open-redirect-scanner](https://github.com/ak1t4/open-redirect-scanner) - open redirect subdomains scanner
 - [DNSLog](https://github.com/BugScanTeam/DNSLog) - DNSLog 是一款监控 DNS 解析记录和 HTTP 访问记录的工具。
